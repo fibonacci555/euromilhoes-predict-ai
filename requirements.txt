@@ -1,0 +1,8 @@
+beautifulsoup4==4.9.3
+bs4==0.0.1
+colorama==0.4.6
+numpy==1.23.5
+pandas==1.5.2
+sklearn==0.0.post1
+openpyxl==3.0.10
+keras==2.11.0
